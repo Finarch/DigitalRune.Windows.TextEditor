@@ -1,4 +1,19 @@
-DigitalRune.Windows.TextEditor
-==============================
+DigitalRune .NET TextEditor Control
+===================================
 
-Finarch Changes on DigitalRune.Windows.TextEditor to comply with LGPL
+This code is sourced from  http://www.digitalrune.com/Downloads.aspx and had to be altered to include a strong name. Strong naming is required to be able to use the component in a project that will be strong named.
+
+
+Readme as provided by DigitalRune
+=================================
+
+The source code is based on the TextEditor control of SharpDevelop IDE which
+can be downloaded from .
+ 
+This project is licensed under the terms of the GNU Lesser General Public License. See 'license.txt' to view the full license text.
+
+------------------------------------------------------------------------------
+
+DigitalRune is a brand of Garstenauer Information Technology OG.
+
+
